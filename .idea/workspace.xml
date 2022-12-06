@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a34ac3f-2566-498a-97bf-933e498226b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/CareBuddy.app.androidTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/CareBuddy.app.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/app/CareBuddy.app.unitTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/ui/activities/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_afollestad_material_dialogs_commons_0_8_6_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_afollestad_material_dialogs_commons_0_8_6_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_afollestad_material_dialogs_core_0_8_6_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_afollestad_material_dialogs_core_0_8_6_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_karumi_dexter_5_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_karumi_dexter_5_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__me_zhanghai_android_materialprogressbar_library_1_1_6_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__me_zhanghai_android_materialprogressbar_library_1_1_6_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/CareBuddy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/CareBuddy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/CareBuddy.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/CareBuddy.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/beffjezos/carebuddy/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/beffjezos/komek/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/SqlDonor.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/SqlDonor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/adapters/CharityViewHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/adapters/CharityViewHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/adapters/DonationAdaptetr.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/adapters/DonationAdaptetr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/adapters/PackageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/adapters/PackageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/adapters/ProductAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/adapters/ProductAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/adapters/TabAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/adapters/TabAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/models/Charity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/models/Charity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/models/Donation.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/models/Donation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/models/Donor.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/models/Donor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/models/Package.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/models/Package.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/models/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/models/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/CategoryActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/ui/activities/CategoryActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/CharitiesList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/ui/activities/CharitiesList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/CharityActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/ui/activities/CharityActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/DonateMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/ui/activities/DonateMoney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/DonatePackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/ui/activities/DonatePackage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/NewCharityReg.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/ui/activities/NewCharityReg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/NewDonorReg.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/ui/activities/NewDonorReg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/Splash.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/ui/activities/Splash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/activities/VerifyActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/ui/activities/VerifyActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/fragments/CategoryFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/ui/fragments/CategoryFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/carebuddy/ui/fragments/PackageFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/beffjezos/komek/ui/fragments/PackageFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/beffjezos/carebuddy/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/beffjezos/komek/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\330S\.android\avd\Pixel_6_API_29.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CareBuddy" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1jxrZw0FftGTGXWuRoCjZW2G2Tb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\CareBuddy\app" />
+      <recent name="F:\CareBuddy" />
+      <recent name="F:\CareBuddy\app\src\main\res" />
+      <recent name="F:\CareBuddy\app\src\main\java\com\beffjezos\carebuddy" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="CareBuddy.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+        <option name="PROFILING_MODE" value="NOT_SET" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a34ac3f-2566-498a-97bf-933e498226b5" name="Default Changelist" comment="" />
+      <created>1604756642103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604756642103</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added Features">
+      <created>1604760309472</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604760309472</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Features">
+      <created>1604783506420</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604783506420</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added Features">
+      <created>1604786055065</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604786055065</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added Features">
+      <created>1604823382018</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604823382018</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added Features">
+      <created>1604825473087</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604825473087</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added Features">
+      <created>1604825934776</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604825934776</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added Features">
+      <created>1604827416945</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604827416945</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added Features">
+      <created>1604837858984</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604837858984</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added Features">
+      <created>1604838792597</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604838792597</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added Features">
+      <created>1604839529250</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604839529250</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added Features">
+      <created>1604842274356</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1604842274356</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Added Features" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Features" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+</project>
