@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "83270593343",
-    "firebase_url": "https://lifepack-db33e.firebaseio.com",
-    "project_id": "lifepack-db33e",
-    "storage_bucket": "lifepack-db33e.appspot.com"
+    "project_number": "890284272446",
+    "firebase_url": "https://komek-7b491-default-rtdb.firebaseio.com",
+    "project_id": "komek-7b491",
+    "storage_bucket": "komek-7b491.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:83270593343:android:1b3ade2c185c1c0ab8c18a",
+        "mobilesdk_app_id": "1:890284272446:android:3a3532a7c37145f67a9a6f",
         "android_client_info": {
-          "package_name": "com.beffjezos.lifepacks"
+          "package_name": "kz.altyn.komek"
         }
       },
       "oauth_client": [
         {
-          "client_id": "83270593343-8ih862rs2ept7brag1hu9bmnhnpk3c9t.apps.googleusercontent.com",
+          "client_id": "890284272446-2cvg0084j6k6v0krknotqhkhi9s6k4hk.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.beffjezos.lifepacks",
-            "certificate_hash": "6ce72517dc6b6ae0f348a1982afe4172ddaaf696"
+            "package_name": "kz.altyn.komek",
+            "certificate_hash": "95d94b51ce0f9ac148c048cfda2088ac7c383488"
           }
         },
         {
-          "client_id": "83270593343-nhuoeajlpul15cqq1iiqoco250lkelij.apps.googleusercontent.com",
+          "client_id": "890284272446-f6vi1ruk5tts5cnlttj8mhcm70adnlu9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBO7IWcNRHP4kAut4A7PtZm3HZZy4XT7tQ"
+          "current_key": "AIzaSyDQQkIBjJwacH2ulRufsxsQWACLIKKiPCo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "83270593343-nhuoeajlpul15cqq1iiqoco250lkelij.apps.googleusercontent.com",
+              "client_id": "890284272446-f6vi1ruk5tts5cnlttj8mhcm70adnlu9.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
